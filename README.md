@@ -10,4 +10,4 @@ Tambahkan kode HTML untuk membuat form input dengan mengetikkan perintah berikut
 ![img 1](assets/1.png)
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
-```html
+```
