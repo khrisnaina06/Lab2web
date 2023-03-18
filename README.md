@@ -16,6 +16,7 @@ Berikut ini adalah langkah langkah membuat form input yang menampilkan nama, tan
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
+- Di bawah ini adalah code css nya :
 - **Gambar**
 ![img 4](assets/4.png)
 
