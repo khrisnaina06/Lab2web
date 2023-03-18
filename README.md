@@ -5,6 +5,6 @@ Berikut ini adalah langkah langkah membuat form input yang menampilkan nama, tan
 1.
 Tambahkan kode HTML untuk membuat form input dengan mengetikkan perintah berikut :
 
-- Gambar
+- *Gambar*
 
 ![img 1](assets/1.png)
