@@ -17,7 +17,7 @@ Berikut ini adalah langkah langkah membuat form input yang menampilkan nama, tan
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
 - [Gambar]
-![img 2](assets/4.png)
+![img 4](assets/4.png)
 
 3. code *PHP*
 - Setelah mendefinisikan variabel $nama, $tgl_lahir, dan $pekerjaan dari input form, kita menghitung umur berdasarkan tanggal lahir menggunakan fungsi date_diff() dari PHP. Setelah itu, kita menggunakan struktur switch untuk menentukan gaji dan pajak yang akan diberikan berdasarkan pilihan pekerjaan yang dipilih.
