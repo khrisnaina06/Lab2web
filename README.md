@@ -32,4 +32,11 @@ Berikut ini adalah langkah langkah membuat form input yang menampilkan nama, tan
 - **Gambar**
 ![img 3](assets/3.png)
 
+4. Output
+- Di bawah ini adaalah output dari projectnya :
+- **Gambar**
+![img 5](assets/5.png)
+- **Gambar**
+![img 5](assets/6.png)
+
 ## SEKIAN TERIMA KASIH !!!
